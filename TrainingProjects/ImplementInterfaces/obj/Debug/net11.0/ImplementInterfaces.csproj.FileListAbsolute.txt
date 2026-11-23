@@ -1,0 +1,16 @@
+C:\Users\DELL\Desktop\My CSharp Projects\TrainingProjects\ImplementInterfaces\bin\Debug\net11.0\ImplementInterfaces.exe
+C:\Users\DELL\Desktop\My CSharp Projects\TrainingProjects\ImplementInterfaces\bin\Debug\net11.0\ImplementInterfaces.deps.json
+C:\Users\DELL\Desktop\My CSharp Projects\TrainingProjects\ImplementInterfaces\bin\Debug\net11.0\ImplementInterfaces.runtimeconfig.json
+C:\Users\DELL\Desktop\My CSharp Projects\TrainingProjects\ImplementInterfaces\bin\Debug\net11.0\ImplementInterfaces.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\My CSharp Projects\TrainingProjects\ImplementInterfaces\bin\Debug\net11.0\ImplementInterfaces.dll
+C:\Users\DELL\Desktop\My CSharp Projects\TrainingProjects\ImplementInterfaces\bin\Debug\net11.0\ImplementInterfaces.pdb
+C:\Users\DELL\Desktop\My CSharp Projects\TrainingProjects\ImplementInterfaces\obj\Debug\net11.0\ImplementInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\My CSharp Projects\TrainingProjects\ImplementInterfaces\obj\Debug\net11.0\ImplementInterfaces.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\My CSharp Projects\TrainingProjects\ImplementInterfaces\obj\Debug\net11.0\ImplementInterfaces.AssemblyInfo.cs
+C:\Users\DELL\Desktop\My CSharp Projects\TrainingProjects\ImplementInterfaces\obj\Debug\net11.0\ImplementInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\My CSharp Projects\TrainingProjects\ImplementInterfaces\obj\Debug\net11.0\ImplementInterfaces.dll
+C:\Users\DELL\Desktop\My CSharp Projects\TrainingProjects\ImplementInterfaces\obj\Debug\net11.0\refint\ImplementInterfaces.dll
+C:\Users\DELL\Desktop\My CSharp Projects\TrainingProjects\ImplementInterfaces\obj\Debug\net11.0\ImplementInterfaces.pdb
+C:\Users\DELL\Desktop\My CSharp Projects\TrainingProjects\ImplementInterfaces\obj\Debug\net11.0\ImplementInterfaces.genruntimeconfig.cache
+C:\Users\DELL\Desktop\My CSharp Projects\TrainingProjects\ImplementInterfaces\obj\Debug\net11.0\ref\ImplementInterfaces.dll
+C:\Users\DELL\Desktop\My CSharp Projects\TrainingProjects\ImplementInterfaces\obj\Debug\net11.0\Implemen.756EF297.Up2Date

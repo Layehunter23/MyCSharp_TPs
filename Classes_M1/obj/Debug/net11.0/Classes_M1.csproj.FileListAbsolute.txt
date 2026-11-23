@@ -1,0 +1,16 @@
+C:\Users\DELL\Desktop\My CSharp Projects\Classes_M1\bin\Debug\net11.0\Classes_M1.exe
+C:\Users\DELL\Desktop\My CSharp Projects\Classes_M1\bin\Debug\net11.0\Classes_M1.deps.json
+C:\Users\DELL\Desktop\My CSharp Projects\Classes_M1\bin\Debug\net11.0\Classes_M1.runtimeconfig.json
+C:\Users\DELL\Desktop\My CSharp Projects\Classes_M1\bin\Debug\net11.0\Classes_M1.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\My CSharp Projects\Classes_M1\bin\Debug\net11.0\Classes_M1.dll
+C:\Users\DELL\Desktop\My CSharp Projects\Classes_M1\bin\Debug\net11.0\Classes_M1.pdb
+C:\Users\DELL\Desktop\My CSharp Projects\Classes_M1\obj\Debug\net11.0\Classes_M1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\My CSharp Projects\Classes_M1\obj\Debug\net11.0\Classes_M1.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\My CSharp Projects\Classes_M1\obj\Debug\net11.0\Classes_M1.AssemblyInfo.cs
+C:\Users\DELL\Desktop\My CSharp Projects\Classes_M1\obj\Debug\net11.0\Classes_M1.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\My CSharp Projects\Classes_M1\obj\Debug\net11.0\Classes_M1.dll
+C:\Users\DELL\Desktop\My CSharp Projects\Classes_M1\obj\Debug\net11.0\refint\Classes_M1.dll
+C:\Users\DELL\Desktop\My CSharp Projects\Classes_M1\obj\Debug\net11.0\Classes_M1.pdb
+C:\Users\DELL\Desktop\My CSharp Projects\Classes_M1\obj\Debug\net11.0\Classes_M1.genruntimeconfig.cache
+C:\Users\DELL\Desktop\My CSharp Projects\Classes_M1\obj\Debug\net11.0\ref\Classes_M1.dll
+C:\Users\DELL\Desktop\My CSharp Projects\Classes_M1\obj\Debug\net11.0\Classes_M1.csproj.Up2Date
